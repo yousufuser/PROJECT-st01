@@ -1,2 +1,2 @@
 # PROJECT-st01
-This is my first Repo.
+This is my Git Repo.
